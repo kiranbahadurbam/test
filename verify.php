@@ -1,3 +1,4 @@
+#its me kiran
 <?php 
   require_once("dbconfig.php");
   if(isset($_GET['code']) and $_GET['code']!="" and isset($_GET['email']) and $_GET['email']!=""){
